@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="SpringMVC_Security_Example" target="6" />
+      <module name="SpringMVC_Security_Example" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
